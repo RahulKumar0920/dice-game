@@ -1,6 +1,6 @@
 # Dice Game
 
-##Features:
+## Features:
 
 •Dynamic Dice Images: On every page reload or game reset, new images representing dice values from 1 to 6 are randomly displayed for both players.
 
