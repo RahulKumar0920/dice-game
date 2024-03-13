@@ -10,4 +10,4 @@
 
 •User Interface: The interface is designed to be intuitive and user-friendly, allowing players to easily understand the game state and outcomes.
 
-*The Dice Game project is perfect for beginners looking to practice their web development skills or for anyone wanting to enjoy a quick and entertaining game of chance.*
+_The Dice Game project is perfect for beginners looking to practice their web development skills or for anyone wanting to enjoy a quick and entertaining game of chance._
